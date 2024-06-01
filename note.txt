@@ -1,4 +1,0 @@
-***Để Web Chạy Hiệu Quả Vui Lòng Lưu Ý***
- * THAY FILE THƯ VIỆN JDBC.jar
- * CHẠY DATABASE 
- * ĐỔI CONNECTION DATABASE trong file mylib.java
